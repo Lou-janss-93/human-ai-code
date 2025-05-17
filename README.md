@@ -20,7 +20,7 @@ Whether you’re a developer, thinker, artist, or curious mind: you are welcome 
     - Credit the original creators: **Louis Janssens \& Perplexity.AI**
     - Add your own name and (if applicable) the AI tool you used (e.g., GitHub Copilot)
 - Original texts from third parties (such as Peter Klein) will only be added with explicit permission from the author.
-- All contributors are listed in the [AUTHORS](./AUTHORS) file.
+- All contributors are listed in the [CONTRIBUTING]([/CONTIBUTING](https://github.com/Lou-janss-93/human-ai-code/blob/main/CONTRIBUTING.md)) file.
 
 ---
 
