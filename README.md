@@ -26,10 +26,12 @@ Whether you’re a developer, thinker, artist, or curious mind: you are welcome 
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
-You are free to use, modify, and distribute the code, as long as you credit the original authors and any AI tools involved.
+## License
 
-See the [LICENSE](./LICENSE) file for the full license text.
+This project’s code is licensed under the [MIT License](https://github.com/Lou-janss-93/human-ai-code/blob/main/LICENSE).
+
+Creative content (such as manifestos and quotes) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 
 ---
 
