@@ -42,7 +42,18 @@ See the [LICENSE](./LICENSE) file for the full license text.
 
 Let’s build an open, fair, and innovative future together!
 
-## ⏩ Example 
+## ⏩ Usage Example
+
+from human_ai_code.core import tertia_saltatio_v1
+
+print(f"Name: {tertia_saltatio_v1.naam}")
+print(f"Definition: {tertia_saltatio_v1.definitio}")
+print(f"Exemplar: {tertia_saltatio_v1.exemplar}")
+print(f"Effectus: {tertia_saltatio_v1.effectus}")
+
+undefined
+
+## ⬇️ output
 
 Naam: tertia_saltatio
 Definitio: evolutio
