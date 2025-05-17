@@ -19,7 +19,7 @@ Whether you’re a developer, thinker, artist, or curious mind: you are welcome 
 - Everyone is welcome to contribute, provided you:
     - Credit the original creators: **Louis Janssens \& Perplexity.AI**
     - Add your own name and (if applicable) the AI tool you used (e.g., GitHub Copilot)
-- Original texts from third parties (such as Peter Klein) will only be added with explicit permission from the author.
+- Original texts from third parties will only be added with explicit permission from the author.
 - All contributors are listed in the [CONTRIBUTING]([/CONTIBUTING](https://github.com/Lou-janss-93/human-ai-code/blob/main/CONTRIBUTING.md)) file.
 
 ---
@@ -30,8 +30,9 @@ Whether you’re a developer, thinker, artist, or curious mind: you are welcome 
 
 This project’s code is licensed under the [MIT License](https://github.com/Lou-janss-93/human-ai-code/blob/main/LICENSE).
 
-Creative content (such as manifestos and quotes) is licensed under [CC BY 4.0]([/CC BY 4.0]([https://creativecommons.org/licenses/by/4.0/])
-([https://github.com/Lou-janss-93/human-ai-code/blob/main/CC-BY-4.0.txt])))
+Creative content (such as manifestos and quotes) is licensed under 
+- [CC BY 4.0]([/CC BY 4.0]([https://creativecommons.org/licenses/by/4.0/]))
+- [CC BY 4.0]([/CC BY 4.0]([https://github.com/Lou-janss-93/human-ai-code/blob/main/CC-BY-4.0.txt]))
 
 
 ---
