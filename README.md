@@ -30,7 +30,7 @@ Whether you’re a developer, thinker, artist, or curious mind: you are welcome 
 
 This project’s code is licensed under the [MIT License](https://github.com/Lou-janss-93/human-ai-code/blob/main/LICENSE).
 
-Creative content (such as manifestos and quotes) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Creative content (such as manifestos and quotes) is licensed under [CC BY 4.0]([https://creativecommons.org/licenses/by/4.0/](https://github.com/Lou-janss-93/human-ai-code/blob/main/CC-BY-4.0.txt)).
 
 
 ---
